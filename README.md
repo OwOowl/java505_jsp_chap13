@@ -15,3 +15,9 @@ Statement, PreparedStatement
   3. update
   4. delete
   5. 게시판 만들기
+
+2022-11-02
+
+1. 게시판 만들기
+2. ajax 사용하기
+3. Gson 사용하기
