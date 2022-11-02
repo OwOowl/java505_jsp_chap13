@@ -36,5 +36,5 @@
         if(conn != null) { conn.close(); }
     }
 
-    response.sendRedirect("board.jsp");
+    response.sendRedirect("boardList.jsp");
 %>
